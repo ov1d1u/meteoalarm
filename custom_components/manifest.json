@@ -1,0 +1,15 @@
+{
+  "domain": "meteoalarm",
+  "name": "MeteoAlarm",
+  "codeowners": [
+    "@ov1d1u"
+  ],
+  "documentation": "https://www.home-assistant.io/integrations/meteoalarm",
+  "iot_class": "cloud_polling",
+  "loggers": [
+    "meteoalertapi"
+  ],
+  "quality_scale": "legacy",
+  "requirements": [],
+  "version": "2025.5.27"
+}
